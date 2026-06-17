@@ -64,4 +64,4 @@ This project performs Exploratory Data Analysis (EDA) on the Forest Fires datase
 ## Author
 
 Alisha Dongare
-Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
+Aspiring Data Analyst | Python | SQL | Power BI 
